@@ -1,2 +1,3 @@
 # DesignPatterns
-Patrones de deiseño
+Patrones de diseño
+-Initial
